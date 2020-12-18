@@ -4,7 +4,7 @@ I’m Ondrej Prenek, AI & Machine Learning Engineer at IBM Czech Republic, Pragu
 
 **3 years of work experience** in the AI & Machine Learning field, building projects for the clients, using different programming tools and languages like Python, C/C++, Java.
 
-- 🌐 http://preneond.me/
+- 🌐 https://preneond.me/
 
 - 💻 LinkedIn: [@ondrejprenek](https://www.linkedin.com/in/ondrejprenek/)
 

@@ -6,7 +6,7 @@ I’m Ondrej Prenek, AI & Machine Learning Engineer at IBM Czech Republic, Pragu
 
 - 🌐 https://preneond.me/
 
-- 💻 LinkedIn: [@ondrejprenek](https://www.linkedin.com/in/prenekondrej/)
+- 💻 LinkedIn: [@prenekondrej](https://www.linkedin.com/in/prenekondrej/)
 
 - 🐦 [@ondraprenek](https://twitter.com/ondraprenek?lang=cs)
 

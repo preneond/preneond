@@ -4,6 +4,8 @@ I’m Ondrej Prenek, AI & Machine Learning Engineer, currently working on the pr
 
 **3 years of work experience** in the AI & Machine Learning field, building projects for the clients, using different programming tools and languages like Python, C/C++, Java.
 
+Feel free to contact me using links below ⬇️.
+
 - 🌐 https://preneond.me/
 
 - 💻 LinkedIn: [@prenekondrej](https://www.linkedin.com/in/prenekondrej/)

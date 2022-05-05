@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ondrej Prenek, Machine Learning Engineer with **5 years of work experience** in the AI & Machine Learning field, developing projects for the clients, using different languages like Python, C/C++, Java.
+I’m Ondrej Prenek, ML Engineer, currently working as a freelancer - developing projects for the clients, using different languages like Python, C/C++, Java.
 
 Feel free to contact me using links below ⬇️.
 

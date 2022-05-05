@@ -8,8 +8,6 @@ Feel free to contact me using links below ⬇️.
 
 - 💻 LinkedIn: [@prenekondrej](https://www.linkedin.com/in/prenekondrej/)
 
-- 🐦 [@ondraprenek](https://twitter.com/ondraprenek?lang=cs)
-
 - 📧 [ondra.prenek@gmail.com](mailto:ondra.prenek@gmail.com)
 
 ---

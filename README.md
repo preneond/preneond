@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-I’m Ondrej Prenek, ML Engineer, currently working as a freelancer - developing projects for the clients, using different languages like Python, C/C++, Java.
+I’m Ondrej Prenek, SW Engineer, currently working as a freelancer - developing projects for the clients, using different languages like Python, Kotlin, C++.
 
 Feel free to contact me using links below ⬇️.
-
-- 🌐 https://preneond.me/
 
 - 💻 LinkedIn: [@prenekondrej](https://www.linkedin.com/in/prenekondrej/)
 

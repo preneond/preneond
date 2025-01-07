@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Ondrej Prenek, SW Engineer, currently working in algotrading company as software engineer
+I’m Ondrej Prenek, SW Engineer with AI/ML background, currently working in algotrading company
 
 - 💻 LinkedIn: [@prenekondrej](https://www.linkedin.com/in/prenekondrej/)
 
